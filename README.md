@@ -5,7 +5,7 @@
 * Understand how to use and when to use CSS Grid layout and Flexbox.
 
 ## Project
-* CSS Grid Layout & Flexbox [link]()
+* CSS Grid Layout & Flexbox [link](https://github.com/pittyh6/CSS_Grid_Layout_e_Flexbox/blob/main/index.html)
 
 ### Result
 ![Middle Banner](Documentation/result.gif)
