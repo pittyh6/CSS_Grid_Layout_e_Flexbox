@@ -1,11 +1,11 @@
-# Bookmark Landing Page Project
+# CSS Grid Layout & Flexbox
 
-![Begin Banner](Documentation/top-1200x350.gif)
+![Begin Banner](Documentation/Under_Development.gif)
 
 * Understand how to use and when to use CSS Grid layout and Flexbox.
 
 ## Project
-* Bookmark [link]()
+* CSS Grid Layout & Flexbox [link]()
 
 ### Result
 ![Middle Banner](Documentation/)
